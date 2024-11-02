@@ -12,6 +12,7 @@ c.customerid,
 c.segment,
 c.country,
 -- from raw product
+p.productid,
 p.category,
 p.productname,
 p.subcategory
