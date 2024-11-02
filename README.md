@@ -1,2 +1,2 @@
-# python_dbt_postgres
-python with dbt connect to postgres
+# python_dbt
+python with dbt connect to ....
